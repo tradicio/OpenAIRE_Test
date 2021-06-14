@@ -1,0 +1,77 @@
+Number of records per publication year:
+
+Typology: journal_article 
+Number of records: 34408 
+
+Typology: book_chapter 
+Number of records: 14149 
+
+Typology: conference 
+Number of records: 6376 
+
+Typology: dissertation 
+Number of records: 3467 
+
+Typology: conference_abstract 
+Number of records: 2542 
+
+Typology: bi_dissertation 
+Number of records: 2225 
+
+Typology: book 
+Number of records: 2207 
+
+Typology: book_editor 
+Number of records: 1846 
+
+Typology: working_paper 
+Number of records: 1840 
+
+Typology: review 
+Number of records: 1540 
+
+Typology: report 
+Number of records: 858 
+
+Typology: encyclopedia_article 
+Number of records: 810 
+
+Typology: newspaper_article 
+Number of records: 564 
+
+Typology: preprint 
+Number of records: 439 
+
+Typology: research_data 
+Number of records: 356 
+
+Typology: journal_editor 
+Number of records: 355 
+
+Typology: conference_editor 
+Number of records: 169 
+
+Typology: blog_post 
+Number of records: 121 
+
+Typology: patent 
+Number of records: 94 
+
+Typology: bi_master_thesis 
+Number of records: 81 
+
+Typology: translation_chapter 
+Number of records: 52 
+
+Typology: translation 
+Number of records: 29 
+
+Typology: bi_bachelor_thesis 
+Number of records: 19 
+
+Typology: bi_postdoc_thesis 
+Number of records: 13 
+
+Typology: software 
+Number of records: 7 
+

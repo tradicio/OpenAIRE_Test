@@ -1,0 +1,203 @@
+Number of records per publication year: 
+
+Year: 1957 
+Number of records: 4 
+
+Year: 1958 
+Number of records: 3 
+
+Year: 1959 
+Number of records: 1 
+
+Year: 1960 
+Number of records: 6 
+
+Year: 1961 
+Number of records: 11 
+
+Year: 1962 
+Number of records: 11 
+
+Year: 1963 
+Number of records: 10 
+
+Year: 1964 
+Number of records: 10 
+
+Year: 1965 
+Number of records: 16 
+
+Year: 1966 
+Number of records: 25 
+
+Year: 1967 
+Number of records: 45 
+
+Year: 1968 
+Number of records: 41 
+
+Year: 1969 
+Number of records: 68 
+
+Year: 1970 
+Number of records: 80 
+
+Year: 1971 
+Number of records: 91 
+
+Year: 1972 
+Number of records: 107 
+
+Year: 1973 
+Number of records: 152 
+
+Year: 1974 
+Number of records: 171 
+
+Year: 1975 
+Number of records: 172 
+
+Year: 1976 
+Number of records: 242 
+
+Year: 1977 
+Number of records: 226 
+
+Year: 1978 
+Number of records: 282 
+
+Year: 1979 
+Number of records: 295 
+
+Year: 1980 
+Number of records: 365 
+
+Year: 1981 
+Number of records: 315 
+
+Year: 1982 
+Number of records: 345 
+
+Year: 1983 
+Number of records: 379 
+
+Year: 1984 
+Number of records: 375 
+
+Year: 1985 
+Number of records: 435 
+
+Year: 1986 
+Number of records: 478 
+
+Year: 1987 
+Number of records: 509 
+
+Year: 1988 
+Number of records: 521 
+
+Year: 1989 
+Number of records: 533 
+
+Year: 1990 
+Number of records: 655 
+
+Year: 1991 
+Number of records: 667 
+
+Year: 1992 
+Number of records: 735 
+
+Year: 1993 
+Number of records: 752 
+
+Year: 1994 
+Number of records: 983 
+
+Year: 1995 
+Number of records: 908 
+
+Year: 1996 
+Number of records: 1003 
+
+Year: 1997 
+Number of records: 1122 
+
+Year: 1998 
+Number of records: 1196 
+
+Year: 1999 
+Number of records: 1241 
+
+Year: 2000 
+Number of records: 1531 
+
+Year: 2001 
+Number of records: 1668 
+
+Year: 2002 
+Number of records: 1690 
+
+Year: 2003 
+Number of records: 1890 
+
+Year: 2004 
+Number of records: 2055 
+
+Year: 2005 
+Number of records: 2237 
+
+Year: 2006 
+Number of records: 2410 
+
+Year: 2007 
+Number of records: 2638 
+
+Year: 2008 
+Number of records: 2927 
+
+Year: 2009 
+Number of records: 2967 
+
+Year: 2010 
+Number of records: 3325 
+
+Year: 2011 
+Number of records: 3342 
+
+Year: 2012 
+Number of records: 3373 
+
+Year: 2013 
+Number of records: 3317 
+
+Year: 2014 
+Number of records: 3283 
+
+Year: 2015 
+Number of records: 3238 
+
+Year: 2016 
+Number of records: 3075 
+
+Year: 2017 
+Number of records: 3095 
+
+Year: 2018 
+Number of records: 3187 
+
+Year: 2019 
+Number of records: 3252 
+
+Year: 2020 
+Number of records: 3069 
+
+Year: 2021 
+Number of records: 1410 
+
+Year: 2022 
+Number of records: 1 
+
+Year: 2023 
+Number of records: 1 
+

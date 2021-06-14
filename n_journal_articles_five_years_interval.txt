@@ -1,0 +1,26 @@
+Number of Journal Articles produced since 1985 grouped by intervals of 5 years:
+
+Interval year: 1985 - 1990 
+Number of records: 1303 
+
+Interval year: 1990 - 1995 
+Number of records: 2076 
+
+Interval year: 1995 - 2000 
+Number of records: 2638 
+
+Interval year: 2000 - 2005 
+Number of records: 3648 
+
+Interval year: 2005 - 2010 
+Number of records: 5539 
+
+Interval year: 2010 - 2015 
+Number of records: 7280 
+
+Interval year: 2015 - 2020 
+Number of records: 7463 
+
+Interval year: 2020 - 2025 
+Number of records: 2541 
+
